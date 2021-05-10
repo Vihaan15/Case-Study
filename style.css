@@ -1,0 +1,26 @@
+body{
+    text-align: left;
+   color: black;
+   background-color: white;
+}
+
+.text{
+    font-family: 'Special Elite' , cursive;
+
+}
+
+.image{
+    length:350px;
+    width:250px; 
+    border-style: groove;
+    border-color: blue;
+    padding:30px;
+}
+
+.div{
+    border-radius: 30px;
+    border-top: gainsboro;
+    background-color: gainsboro;
+    padding-left: 50px;
+    length:500px;
+}
